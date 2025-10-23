@@ -1,0 +1,15 @@
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\obj\Debug\net9.0\SegragacaoInterfaces-I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\obj\Debug\net9.0\SegragacaoInterfaces-I.AssemblyInfoInputs.cache
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\obj\Debug\net9.0\SegragacaoInterfaces-I.AssemblyInfo.cs
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\obj\Debug\net9.0\SegragacaoInterfaces-I.csproj.CoreCompileInputs.cache
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\obj\Debug\net9.0\SegragacaoInterfaces-I.sourcelink.json
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\bin\Debug\net9.0\SegragacaoInterfaces-I.exe
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\bin\Debug\net9.0\SegragacaoInterfaces-I.deps.json
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\bin\Debug\net9.0\SegragacaoInterfaces-I.runtimeconfig.json
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\bin\Debug\net9.0\SegragacaoInterfaces-I.dll
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\bin\Debug\net9.0\SegragacaoInterfaces-I.pdb
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\obj\Debug\net9.0\SegragacaoInterfaces-I.dll
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\obj\Debug\net9.0\refint\SegragacaoInterfaces-I.dll
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\obj\Debug\net9.0\SegragacaoInterfaces-I.pdb
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\obj\Debug\net9.0\SegragacaoInterfaces-I.genruntimeconfig.cache
+C:\Users\49006814822\Desktop\PraticandoPOO\SOLID\SegragacaoInterfaces-I\obj\Debug\net9.0\ref\SegragacaoInterfaces-I.dll
